@@ -1,0 +1,28 @@
+.card{
+    text-align: justify;
+}
+.jumbotron{
+    color: black;
+    background-color: aliceblue;
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.jumbotron2 {
+    color: black;
+    background-color: aliceblue;
+    padding: 20px 0 20px 0;
+    align-items: center;
+}
+
+.content{
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin: 80px 40px 0 40px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+.content p{
+    text-align: justify;
+}
